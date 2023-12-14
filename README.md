@@ -4,4 +4,4 @@
 Visual Art
 
 ### Projects
-![Color](/assets/IMG/2676.heic)
+![Color](/assets/IMG_2676.heic)

@@ -4,4 +4,4 @@
 Visual Art
 
 ### Projects
-![Color](/assets/IMG_2672.heic)
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
